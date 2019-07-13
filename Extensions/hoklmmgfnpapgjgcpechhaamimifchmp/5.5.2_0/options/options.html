@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="container.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="options.js"></script>
+</head>
+<body>
+<div class="momane_cell" style="display:block; margin: 0 auto;">
+    <div class="momanem_content" style="padding-left: 5px;">
+        <div class="momane_options" style="padding: 5px 5px 20px 0;">
+            <lable style="margin-bottom: 6px;display: inline-block; padding-top: 10px; position: relative; bottom: 10px">Would you like links to <b>SimilarWeb.com</b> or
+                <b>SimilarWeb PRO?</b>
+            </lable>
+            <br>
+            <input name="isPro" class="notPro" type="radio" id="notPro">
+            <label for="notPro" style="padding-right: 15px;">SimilarWeb.com</label>
+            <input name="isPro" class="isPro" type="radio" id="isPro"><label for="isPro">SimilarWeb PRO (<a href="https://pro.similarweb.com">Requires
+            Account</a>)</label>
+        </div>
+        <div class="momane_options" style="padding: 5px 5px 20px 0;">
+            <div>
+              <label for="openInBg">
+                  <input type="checkbox" id="openInBg">
+                  Open All Links in the Background
+                </label>
+            </div>
+            <div>
+                <label for="autoIcon">
+                    <input name="autoIcon" class="autoIcon" type="checkbox" id="autoIcon">
+                    Display site rank in extension icon (requires sending anonymized data to SimilarWeb)
+                </label>
+            </div>
+        </div>
+        <button id="set" class="">Set</button>
+        <div class="info" style="color:#ff9600; padding-top: 10px;"></div>
+    </div>
+</div>
+</body>
+</html>

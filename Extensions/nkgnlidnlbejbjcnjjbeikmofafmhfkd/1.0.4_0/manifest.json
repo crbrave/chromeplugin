@@ -1,0 +1,35 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "default_title": "PHP Offline Manual"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+F",
+            "mac": "Command+Shift+F"
+         }
+      }
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "PHP offline documentation in a popup",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA13lbc7R4HwBeRPGCzHA8LLSI1FowspmSVcjBRDcsRluA72+nYPFaI2iFvoz1zWYlllcruX9osyidhniaN13RMwi5UOERuCLwRw7bkMQjCOpbnYCglRDGD/0H/btyjOJ67JGdeimV/qRuOsYnJZymvBY31F4KnwU3GD1odz37bLm4GQ7Y5RGq4Dl4BYZa2ejXQN6fX3Qh5FC6JJesDEoDrZDMD7jglssQ40wqYvbtyVsLNKh+EBlQFyvYNiLSw7JJTPluOyG+T2usQhcbr5lieLud29HmJGOYoHRgYKH1ZVUh1okq4IJY+ipO7l2J6mKQjGe9OhBk6gG/xnFXSnmCrQIDAQAB",
+   "manifest_version": 2,
+   "name": "PHP Offline Manual",
+   "offline_enabled": true,
+   "options_page": "options.html",
+   "permissions": [ "unlimitedStorage", "clipboardWrite" ],
+   "short_name": "PHP Manual",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.4",
+   "web_accessible_resources": [ "https://ssl.google-analytics.com/ga.js" ]
+}

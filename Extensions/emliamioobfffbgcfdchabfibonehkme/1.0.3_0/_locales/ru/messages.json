@@ -1,0 +1,284 @@
+{
+   "elementToolbarChildNode": {
+      "description": "Title for the child node of the highlighted element in tracking mode",
+      "message": "Дочерний узел"
+   },
+   "elementToolbarHelp": {
+      "description": "Help message for the element toolbar",
+      "message": "Использовать режим слежения для перемещения по странице и выделения элементов. Щелкните элемент, чтобы отключить режим слежения."
+   },
+   "elementToolbarHighlightedElement": {
+      "description": "Title for the highlighted element in tracking mode",
+      "message": "Выделенный элемент"
+   },
+   "elementToolbarNextSibling": {
+      "description": "Title for the next sibling node of the highlighted element in tracking mode",
+      "message": "Следующий одноуровневый элемент узла"
+   },
+   "elementToolbarParentNode": {
+      "description": "Title for the parent node of the highlighted element in tracking mode",
+      "message": "Родительский узел"
+   },
+   "elementToolbarPreviousSibling": {
+      "description": "Title for the previous sibling node of the highlighted element in tracking mode",
+      "message": "Предыдущий одноуровневый элемент узла"
+   },
+   "elementToolbarToggleOff": {
+      "description": "The off state text for the tracking mode toggle button",
+      "message": "Выкл"
+   },
+   "elementToolbarToggleOn": {
+      "description": "The on state text for the tracking mode toggle button",
+      "message": "Вкл"
+   },
+   "elementToolbarTrackingMode": {
+      "description": "Label for the tracking mode toggle button",
+      "message": "Режим слежения"
+   },
+   "errorLocal": {
+      "description": "Error message to show when someone tries to run the extension in a chrome extension page",
+      "message": "Расширение не может работать в локальной странице по соображениям безопасности"
+   },
+   "errorWebStore": {
+      "description": "Error message to show when someone tries to run the extension in a the chrome web store",
+      "message": "Расширения не могут работать в интернет-магазине Chrome по соображениям безопасности"
+   },
+   "extDescription": {
+      "description": "Extension description (maximum 132 characters)",
+      "message": "Нарисовать линейку, чтобы получить пиксельные размеры и позиционирование, и измерить элементы на любой веб-странице."
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Page Ruler"
+   },
+   "extShortName": {
+      "description": "Extension short name (maximum 12 characters)",
+      "message": "Page Ruler"
+   },
+   "optionsHideUpdateTabHelp": {
+      "description": "Message explaining how the do not show update tab checkbox is used",
+      "message": "Не показывают вкладку обновление, когда новая версия расширения установлена"
+   },
+   "optionsHideUpdateTabLabel": {
+      "description": "The label for the do not show update tab checkbox",
+      "message": "Не показывать вкладку Обновления:"
+   },
+   "optionsPageTitle": {
+      "description": "Page title for the options page",
+      "message": "Опции Page Ruler"
+   },
+   "optionsStatisticsHelp": {
+      "description": "Message explaining how the anonymouse usage statistics is used",
+      "message": "Собранная информация не содержит никакой личной информации и используется исключительно для целей совершенствования данного расширения."
+   },
+   "optionsStatisticsLabel": {
+      "description": "The label for the send anonymouse usage statistics checkbox",
+      "message": "Отправить анонимную статистику использования:"
+   },
+   "toolbarBottom": {
+      "description": "Label for the bottom input in the toolbar",
+      "message": "Низ"
+   },
+   "toolbarClose": {
+      "description": "Tooltip for the toolbar close button which closes the addon",
+      "message": "Закрыть"
+   },
+   "toolbarColor": {
+      "description": "Label for the color picker in the toolbar",
+      "message": "Цвет"
+   },
+   "toolbarDisableElementMode": {
+      "description": "Label for the disable element mode button (element as in HTML element)",
+      "message": "Выключить Режим элементов"
+   },
+   "toolbarDockBottom": {
+      "description": "Tooltip for the dock bottom image",
+      "message": "Док-панель в нижней части страницы"
+   },
+   "toolbarDockTop": {
+      "description": "Tooltip for the dock top image",
+      "message": "Док-панель в верхней части страницы"
+   },
+   "toolbarEnableElementMode": {
+      "description": "Label for the enable element mode button (element as in HTML element)",
+      "message": "Включить Режим элементов"
+   },
+   "toolbarGuides": {
+      "description": "Label for the show guides toggle in the toolbar",
+      "message": "Показать направляющие"
+   },
+   "toolbarHeight": {
+      "description": "Label for the height input in the toolbar",
+      "message": "Высота"
+   },
+   "toolbarHelp": {
+      "description": "Lable for the help button in the toolbar",
+      "message": "Показать помощь и информацию"
+   },
+   "toolbarLeft": {
+      "description": "Label for the left input in the toolbar",
+      "message": "Левая"
+   },
+   "toolbarRight": {
+      "description": "Label for the right input in the toolbar",
+      "message": "Правая"
+   },
+   "toolbarTop": {
+      "description": "Label for the top input in the toolbar",
+      "message": "Верх"
+   },
+   "toolbarWidth": {
+      "description": "Label for the width input in the toolbar",
+      "message": "Ширина"
+   },
+   "updateCodeTitle": {
+      "desciption": "Title for the code section in the contributors side box",
+      "message": "Code"
+   },
+   "updateContributeTitle": {
+      "desciption": "Title for the contribute side box",
+      "message": "Помощь проекту Page Ruler"
+   },
+   "updateContributorsTitle": {
+      "desciption": "Title for the contributors side box",
+      "message": "Вкладчики"
+   },
+   "updateDoNotShowPageAgain": {
+      "description": "Label for the do not show this page again checkbox on the update page",
+      "message": "Не показывать эту страницу"
+   },
+   "updateHistoryTitle": {
+      "desciption": "Title for the update history section",
+      "message": "Последние обновления"
+   },
+   "updateIconsTitle": {
+      "desciption": "Title for the icons section in the contributors side box",
+      "message": "Иконки"
+   },
+   "updateKeyBoardShortcuts": {
+      "description": "The title for the keyboard shortcuts section",
+      "message": "Сочетания клавиш"
+   },
+   "updateKeyBoardShortcutsGeneral": {
+      "description": "Title for general shortcuts section",
+      "message": "Клавиши быстрого выбора"
+   },
+   "updateKeyboardShortcutsRuler": {
+      "description": "Title for the ruler arrow keys section",
+      "message": "Линейка"
+   },
+   "updateKeyboardShortcutsRulerCtrl": {
+      "description": "Arrow keys + Ctrl shortcut description",
+      "message": "\u003Cb>+ Ctrl (Command):\u003C/b> Расширить линейку на 1 пиксель"
+   },
+   "updateKeyboardShortcutsRulerCtrlAlt": {
+      "description": "Arrow keys _Ctrl + Alt shortcut description",
+      "message": "\u003Cb>+ Ctrl (Command) + Alt:\u003C/b> Уменьшить линейку на 1 пиксель"
+   },
+   "updateKeyboardShortcutsRulerKeys": {
+      "description": "Arrow keys shortcut description",
+      "message": "\u003Cb>Стрелочки:\u003C/b> Переместите линейку на 1px в любую сторону"
+   },
+   "updateKeyboardShortcutsRulerShift": {
+      "description": "Arrow keys + Shift shortcut description",
+      "message": "\u003Cb>+ Shift:\u003C/b> Переместите линейку на 10 пикселей"
+   },
+   "updateKeyboardShortcutsRulerShiftCtrl": {
+      "description": "Arrow keys + Shift + Ctrl shortcut description",
+      "message": "\u003Cb>+ Shift + Ctrl (Command):\u003C/b> Расширить линейку на 10 пикселей"
+   },
+   "updateKeyboardShortcutsRulerShiftCtrlAl": {
+      "description": "Arrow keys + Shift + Alt shortcut description",
+      "message": "\u003Cb>+ Shift + Ctrl (Command) + Alt:\u003C/b> Уменьшить линейку на 10 пикселей"
+   },
+   "updateKeyboardShortcutsToggle": {
+      "description": "The Alt + P shortcut description",
+      "message": "\u003Cb>Alt + P:\u003C/b> Включить / Выключить Page Ruler"
+   },
+   "updateKeyboardShortcutsToolbar": {
+      "description": "Title for toolbar inputs shortcut keys section",
+      "message": "Панель"
+   },
+   "updateKeyboardShortcutsToolbarDown": {
+      "description": "Down key input shortcut description",
+      "message": "\u003Cb>Клавиша Вниз:\u003C/b> Уменьшить значение на 1"
+   },
+   "updateKeyboardShortcutsToolbarDownShift": {
+      "description": "Down key + Shift input shortcut description",
+      "message": "\u003Cb>+ Shift:\u003C/b> Уменьшить значение на 10"
+   },
+   "updateKeyboardShortcutsToolbarUp": {
+      "description": "Up key input shortcut description",
+      "message": "\u003Cb>Клавиша Вверх:\u003C/b> Увеличить значение на 1"
+   },
+   "updateKeyboardShortcutsToolbarUpShift": {
+      "description": "Up key + Shift input shortcut description",
+      "message": "\u003Cb>+ Shift:\u003C/b> Увеличить значение на 10"
+   },
+   "updateOtherExtensionsText": {
+      "description": "Other extensions section title",
+      "message": "Другие мои расширения"
+   },
+   "updatePageHeader": {
+      "description": "Header message for the page containing the new version number",
+      "message": "Page Ruler был обновлен до версии \u003Cspan>$VERSION$\u003C/span>",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.1"
+         }
+      }
+   },
+   "updatePageHeaderInstall": {
+      "description": "Header message for the update page when a new user installs it",
+      "message": "Благодарим за установку Page Ruler!"
+   },
+   "updatePageTitle": {
+      "desciption": "Page title for the update page",
+      "message": "Обновление Page Ruler"
+   },
+   "updatePageTitleInstall": {
+      "description": "Page title for the install page",
+      "message": "Page Ruler установлен"
+   },
+   "updateReportIssue": {
+      "description": "Report issue button text",
+      "message": "Сообщить о проблеме или внести предложение"
+   },
+   "updateSupportDonateText": {
+      "description": "Donate button text",
+      "message": "Подробнее и Пожертвовать"
+   },
+   "updateSupportReviewText": {
+      "description": "Leave review button text",
+      "message": "Оставить отзыв"
+   },
+   "updateSupportText": {
+      "description": "Support section text",
+      "message": "Page Ruler является и всегда будет \u003Cb>бесплатным\u003C/b>. Если у Вас есть свободное время, пожалуйста, поддержите проект, оставте отзыв в соц сетях что бы каждый мог узнать что есть такой замечательный и полезный инструмент"
+   },
+   "updateSupportText2": {
+      "description": "Second line of the support section text",
+      "message": "Некоторые пользователи спрашивают, как можно сделать пожертвование, что бы сказать спасибо за Рage Ruler. Я предпочитаю,что б деньги шли на более достойное дело, чем я сам. Так что если у Вас есть желание сказать спасибо и в то же время помочь благотворительной организации, которая моему сердцу, Вы меня безмерно осчастливите :)  "
+   },
+   "updateSupportTitle": {
+      "description": "Support section title",
+      "message": "Поддержка Page Ruler"
+   },
+   "updateTip": {
+      "description": "Message informing users about the shortcut key",
+      "message": "\u003Cb>Дополнительно:\u003C/b> Используйте Alt+P для включения или отключения Page Ruler, или назначте другое сочетание клавиш на вкладке расширения"
+   },
+   "updateTranslateDescription": {
+      "desciption": "Description of how to find out how to contribute a translation",
+      "message": "Хотите использовать Page Ruler на вашем родном языке? Посетите \u003Ca href='https://github.com/wrakky/page-ruler'>GitHub project страницу\u003C/a> и следуйте инструкциям о том, как отправить перевод."
+   },
+   "updateTranslateTitle": {
+      "desciption": "Title for the translate section in the contribute side box",
+      "message": "Перевод"
+   },
+   "updateTranslationsTitle": {
+      "desciption": "Title for the translations section in the contributors side box",
+      "message": "Переводы"
+   }
+}

@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Roboto";
+    src: url('${chromePath}fonts/Roboto-Regular.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url('${chromePath}fonts/Roboto-Bold.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    margin:0;
+    width: 324px;
+    height: 204px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#popup{
+    padding: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

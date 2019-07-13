@@ -1,0 +1,181 @@
+{
+   "data_view_desktop_only": {
+      "message": "Desktop Only"
+   },
+   "data_view_geo_see_more": {
+      "message": "SEE MORE COUNTRIES"
+   },
+   "data_view_geo_table_header_left": {
+      "message": "Country"
+   },
+   "data_view_geo_table_header_right": {
+      "message": "Share"
+   },
+   "data_view_geo_table_title": {
+      "message": "Top $NUMBER$ Countries",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "data_view_geo_title": {
+      "message": "Geography"
+   },
+   "data_view_geo_tooltip": {
+      "message": "Traffic Share"
+   },
+   "data_view_overview_categoryrank": {
+      "message": "Category Rank"
+   },
+   "data_view_overview_countryrank": {
+      "message": "Country Rank"
+   },
+   "data_view_overview_globalrank": {
+      "message": "Global Rank"
+   },
+   "data_view_overview_title": {
+      "message": "Overview"
+   },
+   "data_view_tab_geography": {
+      "message": "GEOGRAPHY"
+   },
+   "data_view_tab_overview": {
+      "message": "OVERVIEW"
+   },
+   "data_view_tab_trafficSources": {
+      "message": "TRAFFIC SOURCES"
+   },
+   "data_view_traffic_and_engagement": {
+      "message": "Traffic and Engagement"
+   },
+   "data_view_traffic_and_engagement_all_traffic": {
+      "message": "All Traffic"
+   },
+   "data_view_traffic_and_engagement_bouncerate": {
+      "message": "Bounce Rate"
+   },
+   "data_view_traffic_and_engagement_pagepervisit": {
+      "message": "Pages per Visit"
+   },
+   "data_view_traffic_and_engagement_see_more": {
+      "message": "GO TO TRAFFIC AND ENGAGEMENT"
+   },
+   "data_view_traffic_and_engagement_timeonsite": {
+      "message": "Avg. Visit Duration"
+   },
+   "data_view_traffic_and_engagement_visits": {
+      "message": "Monthly Visits"
+   },
+   "data_view_traffic_and_engagement_visits_over_time": {
+      "message": "Visits Over Time"
+   },
+   "data_view_traffic_sources_direct": {
+      "message": "Direct"
+   },
+   "data_view_traffic_sources_mail": {
+      "message": "Email"
+   },
+   "data_view_traffic_sources_paid_referrals": {
+      "message": "Display Ads"
+   },
+   "data_view_traffic_sources_referrals": {
+      "message": "Referrals"
+   },
+   "data_view_traffic_sources_search": {
+      "message": "Search"
+   },
+   "data_view_traffic_sources_social": {
+      "message": "Social"
+   },
+   "data_view_traffic_sources_table_header_left": {
+      "message": "Source"
+   },
+   "data_view_traffic_sources_table_header_right": {
+      "message": "Traffic Source"
+   },
+   "data_view_traffic_sources_title": {
+      "message": "Traffic Sources"
+   },
+   "data_view_traffic_sources_tooltip": {
+      "message": "Traffic Source"
+   },
+   "data_view_worldwide": {
+      "message": "Worldwide"
+   },
+   "description": {
+      "message": "See website traffic and key metrics for any website, including engagement rate, traffic ranking, keyword ranking and traffic source."
+   },
+   "error_view_subtitle": {
+      "message": "Something went wrong. Please try again in few minutes."
+   },
+   "error_view_title": {
+      "message": "Oops!"
+   },
+   "go_to_similarweb": {
+      "message": "GO TO SIMILARWEB"
+   },
+   "invalid_popup_button": {
+      "message": "GOT IT"
+   },
+   "invalid_popup_subtitle": {
+      "message": "This website is not supported.\nPlease enter a website in the address bar so that we can provide you with relevant data."
+   },
+   "invalid_popup_title": {
+      "message": "Enter a Website"
+   },
+   "linksChoosing_buttonSubText": {
+      "message": "Requires an Account"
+   },
+   "linksChoosing_learnMore": {
+      "message": "Learn more about Similarweb Pro"
+   },
+   "linksChoosing_subtitle": {
+      "message": "Would you like us to redirect you to Similarweb.com or Similarweb PRO?"
+   },
+   "linksChoosing_title": {
+      "message": "Hey There!"
+   },
+   "menu_item_feedback": {
+      "message": "Feedback"
+   },
+   "menu_item_rate": {
+      "message": "Rate us"
+   },
+   "menu_item_share": {
+      "message": "Share"
+   },
+   "more_insights": {
+      "message": "MORE INSIGHTS"
+   },
+   "name": {
+      "message": "SimilarWeb - Traffic Rank & Website Analysis"
+   },
+   "no_data_view_cta": {
+      "message": "Click Here"
+   },
+   "no_data_view_subtitle": {
+      "message": "We currently lack sufficient data to show complete estimations for this website. Rest assured, we are working tirelessly to provide the world with the most reliable data about every website and every app.\nIf you are the owner of this site,\nyou can connect your site's Google Analytics,\nto present your data on SimilarWeb."
+   },
+   "no_data_view_title": {
+      "message": "We're sorry but..."
+   },
+   "not_available": {
+      "message": "N/A"
+   },
+   "rate_modal_button": {
+      "message": "RATE"
+   },
+   "rate_modal_title": {
+      "message": "Show Us Some Love!"
+   },
+   "share_modal_link_copied": {
+      "message": "Copied"
+   },
+   "share_modal_title": {
+      "message": "Share SimilarWeb"
+   },
+   "want_to_see_more_insights": {
+      "message": "Want to see more insights?"
+   }
+}
